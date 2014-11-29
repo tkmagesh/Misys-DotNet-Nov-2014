@@ -1,0 +1,4 @@
+D:\Training\Misys-DotNet-Nov-2014\Day-01\New folder\IODemo\IODemo\bin\Debug\IODemo.exe
+D:\Training\Misys-DotNet-Nov-2014\Day-01\New folder\IODemo\IODemo\bin\Debug\IODemo.pdb
+D:\Training\Misys-DotNet-Nov-2014\Day-01\New folder\IODemo\IODemo\obj\Debug\IODemo.exe
+D:\Training\Misys-DotNet-Nov-2014\Day-01\New folder\IODemo\IODemo\obj\Debug\IODemo.pdb

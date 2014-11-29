@@ -1,0 +1,4 @@
+D:\Training\Misys-DotNet-Nov-2014\Day-01\New folder\TypeDiscussion\TypeDiscussion\bin\Debug\TypeDiscussion.exe
+D:\Training\Misys-DotNet-Nov-2014\Day-01\New folder\TypeDiscussion\TypeDiscussion\bin\Debug\TypeDiscussion.pdb
+D:\Training\Misys-DotNet-Nov-2014\Day-01\New folder\TypeDiscussion\TypeDiscussion\obj\Debug\TypeDiscussion.exe
+D:\Training\Misys-DotNet-Nov-2014\Day-01\New folder\TypeDiscussion\TypeDiscussion\obj\Debug\TypeDiscussion.pdb

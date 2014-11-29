@@ -30,21 +30,21 @@ namespace InteractiveCalculator
             return Number1 / Number2;
         }
 
-        public int Calculate(int choice)
+        public int Calculate(UserChoicesEnum choice)
         {
             var result = 0;
             switch (choice)
             {
-                case 1:
+                case UserChoicesEnum.Add:
                     result = Add();
                     break;
-                case 2:
+                case UserChoicesEnum.Subtract:
                     result = Subtract();
                     break;
-                case 3:
+                case UserChoicesEnum.Multiply:
                     result = Multiply();
                     break;
-                case 4:
+                case UserChoicesEnum.Divide:
                     result = Divide();
                     break;
             }

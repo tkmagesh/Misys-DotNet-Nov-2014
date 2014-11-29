@@ -7,10 +7,19 @@ using System.Text;
 
 namespace InteractiveCalculator
 {
-    
+
+    enum UserChoicesEnum
+    {
+        Add =  1,
+        Subtract = 2,
+        Multiply = 3,
+        Divide = 4,
+        Exit = 5
+    }
+
     class Program
     {
-        static int GetUserChoice()
+        private static UserChoicesEnum GetUserChoice()
         {
             Console.WriteLine("1. Add");
             Console.WriteLine("2. Subtract");
@@ -18,18 +27,27 @@ namespace InteractiveCalculator
             Console.WriteLine("4. Divide");
             Console.WriteLine("5. Exit");
 
-            return int.Parse(Console.ReadLine());
+            int choice = int.Parse(Console.ReadLine());
+            if (choice == 1)
+                return UserChoicesEnum.Add;
+            if (choice == 2)
+                return UserChoicesEnum.Subtract;
+            if (choice == 3)
+                return UserChoicesEnum.Multiply;
+            if (choice == 4)
+                return UserChoicesEnum.Divide;
+            return UserChoicesEnum.Exit;
         }
+
         static void Main(string[] args)
         {
-            int choice = 0;
-            int number1 = 0, number2 = 0;
+            UserChoicesEnum choice = UserChoicesEnum.Add;
             Calculator calculator = new Calculator();
-
-            while (choice < 5)
+            
+            while (choice != UserChoicesEnum.Exit)
             {
                 choice = GetUserChoice();   
-                if (choice > 4)
+                if (choice == UserChoicesEnum.Exit)
                     break;
                 ReadNumbers(calculator);
                 int result = calculator.Calculate(choice);
