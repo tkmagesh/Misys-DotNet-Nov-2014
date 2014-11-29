@@ -7,6 +7,7 @@ using System.Text;
 
 namespace InteractiveCalculator
 {
+    
     class Program
     {
         static int GetUserChoice()
@@ -22,31 +23,32 @@ namespace InteractiveCalculator
         static void Main(string[] args)
         {
             int choice = 0;
+            int number1 = 0, number2 = 0;
+            Calculator calculator = new Calculator();
+
             while (choice < 5)
             {
                 choice = GetUserChoice();   
                 if (choice > 4)
                     break;
-
-                int number1 = 0, number2 = 0;
-                ReadNumbers(ref number1, ref number2);
-                int result = ProcessNumbers(number1, number2, choice);
+                ReadNumbers(calculator);
+                int result = calculator.Calculate(choice);
                 
                 Console.WriteLine("Result = " + result);
             }
 
         }
 
-        static void ReadNumbers(ref int number1, ref int number2)
+        static void ReadNumbers(Calculator calculator)
         {
             Console.WriteLine("Enter the number 1:");
-            number1 = int.Parse(Console.ReadLine());
+            calculator.Number1 = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Enter the number 2:");
-            number2 = int.Parse(Console.ReadLine());
+            calculator.Number2 = int.Parse(Console.ReadLine());
         }
 
-        static int ProcessNumbers(int number1, int number2, int choice)
+       /* static int ProcessNumbers(int number1, int number2, int choice)
         {
             int result = 0;
             switch (choice)
@@ -64,6 +66,7 @@ namespace InteractiveCalculator
                     result = number1 / number2;
                     break;
             }
-        }
+            return result;
+        }*/
     }
 }
