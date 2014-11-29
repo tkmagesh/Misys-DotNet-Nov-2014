@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.IO;
 using System.Linq;
 using System.Net.Mime;
 using System.Text;
@@ -41,9 +42,12 @@ namespace InteractiveCalculator
 
         static void Main(string[] args)
         {
-            UserChoicesEnum choice = UserChoicesEnum.Add;
-            Calculator calculator = new Calculator();
+            var choice = UserChoicesEnum.Add;
+            var calculator = new Calculator();
             
+            var fileName = string.Format("calculator-{0}.dat" , DateTime.Now.ToString("hhmmss"));
+            var calculatorWriter = new StreamWriter(fileName);
+            var dataFormat = "{0},{1},{2},{3}";
             while (choice != UserChoicesEnum.Exit)
             {
                 choice = GetUserChoice();   
@@ -51,9 +55,11 @@ namespace InteractiveCalculator
                     break;
                 ReadNumbers(calculator);
                 int result = calculator.Calculate(choice);
-                
+                var dataToWrite = string.Format(dataFormat, calculator.Number1, calculator.Number2, choice, result);
+                calculatorWriter.WriteLine(dataToWrite);
                 Console.WriteLine("Result = " + result);
             }
+            calculatorWriter.Close();
 
         }
 
