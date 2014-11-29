@@ -1,0 +1,5 @@
+D:\Training\Misys-DotNet-Nov-2014\Day-01\New folder\InteractiveCalculator\InteractiveCalculator\bin\Debug\InteractiveCalculator.exe
+D:\Training\Misys-DotNet-Nov-2014\Day-01\New folder\InteractiveCalculator\InteractiveCalculator\bin\Debug\InteractiveCalculator.pdb
+D:\Training\Misys-DotNet-Nov-2014\Day-01\New folder\InteractiveCalculator\InteractiveCalculator\obj\Debug\InteractiveCalculator.csprojResolveAssemblyReference.cache
+D:\Training\Misys-DotNet-Nov-2014\Day-01\New folder\InteractiveCalculator\InteractiveCalculator\obj\Debug\InteractiveCalculator.exe
+D:\Training\Misys-DotNet-Nov-2014\Day-01\New folder\InteractiveCalculator\InteractiveCalculator\obj\Debug\InteractiveCalculator.pdb

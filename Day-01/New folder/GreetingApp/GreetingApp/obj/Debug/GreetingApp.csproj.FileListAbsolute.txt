@@ -1,0 +1,5 @@
+D:\Training\Misys-DotNet-Nov-2014\Day-01\New folder\GreetingApp\GreetingApp\bin\Debug\GreetingApp.exe
+D:\Training\Misys-DotNet-Nov-2014\Day-01\New folder\GreetingApp\GreetingApp\bin\Debug\GreetingApp.pdb
+D:\Training\Misys-DotNet-Nov-2014\Day-01\New folder\GreetingApp\GreetingApp\obj\Debug\GreetingApp.csprojResolveAssemblyReference.cache
+D:\Training\Misys-DotNet-Nov-2014\Day-01\New folder\GreetingApp\GreetingApp\obj\Debug\GreetingApp.exe
+D:\Training\Misys-DotNet-Nov-2014\Day-01\New folder\GreetingApp\GreetingApp\obj\Debug\GreetingApp.pdb
