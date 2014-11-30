@@ -1,0 +1,5 @@
+D:\Training\Misys-DotNet-Nov-2014\Day-02\CollectionsOverview\CollectionsOverview\bin\Debug\CollectionsOverview.exe
+D:\Training\Misys-DotNet-Nov-2014\Day-02\CollectionsOverview\CollectionsOverview\bin\Debug\CollectionsOverview.pdb
+D:\Training\Misys-DotNet-Nov-2014\Day-02\CollectionsOverview\CollectionsOverview\obj\Debug\CollectionsOverview.csprojResolveAssemblyReference.cache
+D:\Training\Misys-DotNet-Nov-2014\Day-02\CollectionsOverview\CollectionsOverview\obj\Debug\CollectionsOverview.exe
+D:\Training\Misys-DotNet-Nov-2014\Day-02\CollectionsOverview\CollectionsOverview\obj\Debug\CollectionsOverview.pdb
