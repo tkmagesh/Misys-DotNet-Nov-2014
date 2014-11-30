@@ -1,0 +1,5 @@
+D:\Training\Misys-DotNet-Nov-2014\Day-02\NamespacesDemo\ProductMangement.Domain\bin\Debug\ProductMangement.Domain.dll
+D:\Training\Misys-DotNet-Nov-2014\Day-02\NamespacesDemo\ProductMangement.Domain\bin\Debug\ProductMangement.Domain.pdb
+D:\Training\Misys-DotNet-Nov-2014\Day-02\NamespacesDemo\ProductMangement.Domain\obj\Debug\ProductMangement.Domain.csprojResolveAssemblyReference.cache
+D:\Training\Misys-DotNet-Nov-2014\Day-02\NamespacesDemo\ProductMangement.Domain\obj\Debug\ProductMangement.Domain.dll
+D:\Training\Misys-DotNet-Nov-2014\Day-02\NamespacesDemo\ProductMangement.Domain\obj\Debug\ProductMangement.Domain.pdb

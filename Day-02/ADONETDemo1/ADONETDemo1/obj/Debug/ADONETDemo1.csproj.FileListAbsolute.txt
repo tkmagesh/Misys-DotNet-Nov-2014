@@ -1,0 +1,5 @@
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ADONETDemo1\ADONETDemo1\bin\Debug\ADONETDemo1.pdb
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ADONETDemo1\ADONETDemo1\obj\Debug\ADONETDemo1.csprojResolveAssemblyReference.cache
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ADONETDemo1\ADONETDemo1\obj\Debug\ADONETDemo1.pdb
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ADONETDemo1\ADONETDemo1\bin\Debug\ADONETDemo1.exe
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ADONETDemo1\ADONETDemo1\obj\Debug\ADONETDemo1.exe

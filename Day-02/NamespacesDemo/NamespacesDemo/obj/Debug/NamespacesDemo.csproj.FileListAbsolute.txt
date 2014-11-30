@@ -1,0 +1,7 @@
+D:\Training\Misys-DotNet-Nov-2014\Day-02\NamespacesDemo\NamespacesDemo\obj\Debug\NamespacesDemo.csprojResolveAssemblyReference.cache
+D:\Training\Misys-DotNet-Nov-2014\Day-02\NamespacesDemo\NamespacesDemo\bin\Debug\NamespacesDemo.exe
+D:\Training\Misys-DotNet-Nov-2014\Day-02\NamespacesDemo\NamespacesDemo\bin\Debug\NamespacesDemo.pdb
+D:\Training\Misys-DotNet-Nov-2014\Day-02\NamespacesDemo\NamespacesDemo\bin\Debug\ProductMangement.Domain.dll
+D:\Training\Misys-DotNet-Nov-2014\Day-02\NamespacesDemo\NamespacesDemo\bin\Debug\ProductMangement.Domain.pdb
+D:\Training\Misys-DotNet-Nov-2014\Day-02\NamespacesDemo\NamespacesDemo\obj\Debug\NamespacesDemo.exe
+D:\Training\Misys-DotNet-Nov-2014\Day-02\NamespacesDemo\NamespacesDemo\obj\Debug\NamespacesDemo.pdb
