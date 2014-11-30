@@ -1,0 +1,9 @@
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ADONETDemo3\ADONETDemo3\bin\Debug\ADONETDemo3.exe.config
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ADONETDemo3\ADONETDemo3\bin\Debug\ADONETDemo3.exe
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ADONETDemo3\ADONETDemo3\bin\Debug\ADONETDemo3.pdb
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ADONETDemo3\ADONETDemo3\obj\Debug\ADONETDemo3.csprojResolveAssemblyReference.cache
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ADONETDemo3\ADONETDemo3\obj\Debug\ADONETDemo3.Form1.resources
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ADONETDemo3\ADONETDemo3\obj\Debug\ADONETDemo3.Properties.Resources.resources
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ADONETDemo3\ADONETDemo3\obj\Debug\ADONETDemo3.csproj.GenerateResource.Cache
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ADONETDemo3\ADONETDemo3\obj\Debug\ADONETDemo3.exe
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ADONETDemo3\ADONETDemo3\obj\Debug\ADONETDemo3.pdb
