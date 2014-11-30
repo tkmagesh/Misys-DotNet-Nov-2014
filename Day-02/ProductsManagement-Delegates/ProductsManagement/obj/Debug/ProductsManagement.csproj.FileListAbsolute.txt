@@ -1,0 +1,10 @@
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ProductsManagement\ProductsManagement\bin\Debug\ProductsManagement.exe
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ProductsManagement\ProductsManagement\bin\Debug\ProductsManagement.pdb
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ProductsManagement\ProductsManagement\obj\Debug\ProductsManagement.csprojResolveAssemblyReference.cache
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ProductsManagement\ProductsManagement\obj\Debug\ProductsManagement.exe
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ProductsManagement\ProductsManagement\obj\Debug\ProductsManagement.pdb
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ProductsManagement-Delegates\ProductsManagement\obj\Debug\ProductsManagement.exe
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ProductsManagement-Delegates\ProductsManagement\obj\Debug\ProductsManagement.pdb
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ProductsManagement-Delegates\ProductsManagement\bin\Debug\ProductsManagement.exe
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ProductsManagement-Delegates\ProductsManagement\bin\Debug\ProductsManagement.pdb
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ProductsManagement-Delegates\ProductsManagement\obj\Debug\ProductsManagement.csprojResolveAssemblyReference.cache

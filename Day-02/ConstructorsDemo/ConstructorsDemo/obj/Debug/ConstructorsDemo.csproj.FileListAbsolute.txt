@@ -1,0 +1,5 @@
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ConstructorsDemo\ConstructorsDemo\bin\Debug\ConstructorsDemo.exe
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ConstructorsDemo\ConstructorsDemo\bin\Debug\ConstructorsDemo.pdb
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ConstructorsDemo\ConstructorsDemo\obj\Debug\ConstructorsDemo.csprojResolveAssemblyReference.cache
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ConstructorsDemo\ConstructorsDemo\obj\Debug\ConstructorsDemo.exe
+D:\Training\Misys-DotNet-Nov-2014\Day-02\ConstructorsDemo\ConstructorsDemo\obj\Debug\ConstructorsDemo.pdb
