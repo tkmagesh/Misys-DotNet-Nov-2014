@@ -453,6 +453,7 @@ namespace ADONETDemo3 {
                 this.columntitle.AllowDBNull = false;
                 this.columntitle.MaxLength = 50;
                 this.columnminSalary.AllowDBNull = false;
+                this.columnmaxSalary.ReadOnly = true;
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]

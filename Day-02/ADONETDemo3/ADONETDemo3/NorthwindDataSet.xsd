@@ -74,7 +74,7 @@ SELECT id, title, minSalary, maxSalary FROM Designations WHERE (id = @id)</Comma
   <xs:element name="NorthwindDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="NorthwindDataSet" msprop:Generator_UserDSName="NorthwindDataSet">
     <xs:complexType>
       <xs:choice minOccurs="0" maxOccurs="unbounded">
-        <xs:element name="Designations" msprop:Generator_TableClassName="DesignationsDataTable" msprop:Generator_TableVarName="tableDesignations" msprop:Generator_TablePropName="Designations" msprop:Generator_RowDeletingName="DesignationsRowDeleting" msprop:Generator_RowChangingName="DesignationsRowChanging" msprop:Generator_RowEvHandlerName="DesignationsRowChangeEventHandler" msprop:Generator_RowDeletedName="DesignationsRowDeleted" msprop:Generator_UserTableName="Designations" msprop:Generator_RowChangedName="DesignationsRowChanged" msprop:Generator_RowEvArgName="DesignationsRowChangeEvent" msprop:Generator_RowClassName="DesignationsRow">
+        <xs:element name="Designations" msprop:Generator_TableClassName="DesignationsDataTable" msprop:Generator_TableVarName="tableDesignations" msprop:Generator_RowChangedName="DesignationsRowChanged" msprop:Generator_TablePropName="Designations" msprop:Generator_RowDeletingName="DesignationsRowDeleting" msprop:Generator_RowChangingName="DesignationsRowChanging" msprop:Generator_RowEvHandlerName="DesignationsRowChangeEventHandler" msprop:Generator_RowDeletedName="DesignationsRowDeleted" msprop:Generator_RowClassName="DesignationsRow" msprop:Generator_UserTableName="Designations" msprop:Generator_RowEvArgName="DesignationsRowChangeEvent">
           <xs:complexType>
             <xs:sequence>
               <xs:element name="id" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" />
@@ -86,7 +86,7 @@ SELECT id, title, minSalary, maxSalary FROM Designations WHERE (id = @id)</Comma
                 </xs:simpleType>
               </xs:element>
               <xs:element name="minSalary" msprop:Generator_ColumnVarNameInTable="columnminSalary" msprop:Generator_ColumnPropNameInRow="minSalary" msprop:Generator_ColumnPropNameInTable="minSalaryColumn" msprop:Generator_UserColumnName="minSalary" type="xs:decimal" />
-              <xs:element name="maxSalary" msprop:Generator_ColumnVarNameInTable="columnmaxSalary" msprop:Generator_ColumnPropNameInRow="maxSalary" msprop:Generator_ColumnPropNameInTable="maxSalaryColumn" msprop:Generator_UserColumnName="maxSalary" type="xs:decimal" minOccurs="0" />
+              <xs:element name="maxSalary" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnmaxSalary" msprop:Generator_ColumnPropNameInRow="maxSalary" msprop:Generator_ColumnPropNameInTable="maxSalaryColumn" msprop:Generator_UserColumnName="maxSalary" type="xs:decimal" minOccurs="0" />
             </xs:sequence>
           </xs:complexType>
         </xs:element>
