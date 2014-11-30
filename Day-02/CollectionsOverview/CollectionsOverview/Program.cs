@@ -24,15 +24,44 @@ namespace CollectionsOverview
             var numberList = new NumberList();
             numberList.Add(10);
             numberList.Add(20);
-            numberList.Add("abc");
+            //numberList.Add("abc");
 
-            Console.WriteLine("Total # of numbers in the list = ", numberList.Count);
+            Console.WriteLine("Total # of numbers in the list = {0}", numberList.Count);
 
             Console.WriteLine("All the numbers in the list");
             for(var i=0;i<numberList.Count;i++)
                 Console.WriteLine(numberList.Get(i));
 
-            Console.WriteLine("Sum = ", numberList.Sum());
+            Console.WriteLine("Sum = {0}", numberList.Sum());
+            Console.ReadLine();
+        }
+    }
+
+    class NumberList
+    {
+        private ArrayList _list = new ArrayList();
+
+        public void Add(int number)
+        {
+            _list.Add(number);
+        }
+
+        public int Count
+        {
+            get { return _list.Count; }
+        }
+
+        public int Get(int index)
+        {
+            return (int) _list[index];
+        }
+
+        public int Sum()
+        {
+            var result = 0;
+            for (var i = 0; i < _list.Count; i++)
+                result += (int) _list[i];
+            return result;
         }
     }
 }
