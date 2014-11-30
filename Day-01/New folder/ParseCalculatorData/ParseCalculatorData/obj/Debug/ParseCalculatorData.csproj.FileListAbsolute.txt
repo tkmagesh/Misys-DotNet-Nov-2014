@@ -1,0 +1,5 @@
+D:\Training\Misys-DotNet-Nov-2014\Day-01\New folder\ParseCalculatorData\ParseCalculatorData\bin\Debug\ParseCalculatorData.exe
+D:\Training\Misys-DotNet-Nov-2014\Day-01\New folder\ParseCalculatorData\ParseCalculatorData\bin\Debug\ParseCalculatorData.pdb
+D:\Training\Misys-DotNet-Nov-2014\Day-01\New folder\ParseCalculatorData\ParseCalculatorData\obj\Debug\ParseCalculatorData.csprojResolveAssemblyReference.cache
+D:\Training\Misys-DotNet-Nov-2014\Day-01\New folder\ParseCalculatorData\ParseCalculatorData\obj\Debug\ParseCalculatorData.exe
+D:\Training\Misys-DotNet-Nov-2014\Day-01\New folder\ParseCalculatorData\ParseCalculatorData\obj\Debug\ParseCalculatorData.pdb

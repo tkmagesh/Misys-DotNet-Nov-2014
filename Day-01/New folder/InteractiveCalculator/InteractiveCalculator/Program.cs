@@ -47,7 +47,7 @@ namespace InteractiveCalculator
             
             var fileName = string.Format("calculator-{0}.dat" , DateTime.Now.ToString("hhmmss"));
             var calculatorWriter = new StreamWriter(fileName);
-            var dataFormat = "{0},{1},{2},{3}";
+            var dataFormat = "{0},{1},{2}";
             while (choice != UserChoicesEnum.Exit)
             {
                 choice = GetUserChoice();   
@@ -55,7 +55,7 @@ namespace InteractiveCalculator
                     break;
                 ReadNumbers(calculator);
                 int result = calculator.Calculate(choice);
-                var dataToWrite = string.Format(dataFormat, calculator.Number1, calculator.Number2, choice, result);
+                var dataToWrite = string.Format(dataFormat, calculator.Number1, calculator.Number2, choice);
                 calculatorWriter.WriteLine(dataToWrite);
                 Console.WriteLine("Result = " + result);
             }
